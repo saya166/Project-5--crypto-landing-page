@@ -4,7 +4,7 @@
 
 ![Crypto Landing Page](./thumbnail.png)
 
-**[Click here](https://street-style-landing-saya.netlify.app/) for the live demo of the webspage on [Netlify](https://www.netlify.com/).**
+**[Click here](https://crypto-landing-page-saya.netlify.app/) for the live demo of the webspage on [Netlify](https://www.netlify.com/).**
 
 ## Key Features
 
