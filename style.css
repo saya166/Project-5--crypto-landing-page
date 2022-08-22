@@ -27,7 +27,7 @@ body {
   background-color: #8b46ab;
 }
 
-img[src="./assets/white-logo.png"] {
+.logo {
   margin-top: 15px;
   margin-left: 60px;
   height: 40px;
@@ -42,20 +42,22 @@ img[src="./assets/white-logo.png"] {
 }
 .hero {
   text-align: center;
-  margin-top: 130px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .hero-heading {
   font-family: "Merriweather Sans";
   font-size: 70px;
   width: 1000px;
-  margin-left: 160px;
   color: white;
 }
 .hero-description {
   margin-top: -45px;
   font-family: "Merriweather Sans";
   font-size: 20px;
-  margin-left: 90px;
   color: white;
 }
 .button-large {
